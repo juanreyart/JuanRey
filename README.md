@@ -2,7 +2,7 @@
 
 ## 🎨 Ilustrador Digital | 💻 Estudiante de SMR | 🚀 Futuro Programador DAM
 
-![Banner](./banner.jpg) 
+![Banner](./banner.png) 
 
 ### 👤 Sobre mí
 - 📚 Actualmente cursando **1º de SMR** (Sistemas Microinformáticos y Redes).
